@@ -3,6 +3,6 @@ A simple Pokedex webap - built in JS, HTML &amp; CSS, using https://pokeapi.co/ 
 
 <img src="img/home-page.png">
 <hr>
-<img src="img/suicune.png" width="50%">
+<img src="img/suicune.png" width="10%">
 <hr>
 <img src="img/rayquaza.png">
